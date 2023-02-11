@@ -1,0 +1,46 @@
+/* INDEX */
+/* HEADER */
+.H1-Header{
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    top: -250px;
+    left: -220px;
+}
+
+.Image-Logo{
+    height: 250px ;
+    width: 250px ;
+}
+
+.Nav{
+    position: relative;
+    font-size: 28px;
+    text-align: center;
+    top: -270px ;
+    left: -300px;
+}
+/* MAIN */
+.Image1{
+    position: relative;
+    height: 250px ;
+    width: 250px;
+    top: -160px;
+    left: 50px;
+}
+
+.H3-Main{
+    position: relative;
+    font-size: 35px;
+    top: -450px;
+    left: 350px;
+}
+
+.Main-Div{
+    width: 900px;
+    position: relative;
+    font-size: 15px;
+    left: 380px;
+    top: -470px;
+    text-align: justify;
+}
